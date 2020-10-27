@@ -1,3 +1,3 @@
 ## Hello I'm Bartosz, but you can call me [Pathius](https://pathius.github.io/)
 
-<img src="/Pathius/Pathius/blob/main/Hello,%20I'm%20bartosz.png?raw=true" alt="Hello, I'm bartosz.png">
+<img src="https://res.cloudinary.com/pathius/image/upload/v1603809966/Hello_I_m_bartosz_icegfd.png" alt="Hello, I'm bartosz.png">
